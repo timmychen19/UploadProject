@@ -1,0 +1,48 @@
+# ===========================
+# 標案知識庫 .gitignore
+# ===========================
+
+# --- 敏感檔案（絕對禁止上傳） ---
+.env
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# --- 虛擬環境 ---
+.venv/
+venv/
+env/
+
+# --- IDE / 編輯器 ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS ---
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# --- 暫存檔 ---
+temp_corpus.txt
+
+# --- 程式碼（此 repo 只推送知識庫資料） ---
+/analyzer.py
+/app.py
+/file_parser.py
+/git_setup_guide.md
+/git_sync.py
+/result.json
+/step1_ingest.md
+/step2_analyze.md
+/step3_refactor.md
+/test.pptx
+/.env.example
+/.streamlit/
