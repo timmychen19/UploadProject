@@ -32,6 +32,12 @@ desktop.ini
 
 # --- 暫存檔 ---
 temp_corpus.txt
+_temp_parse/
+
+# --- Node.js / Frontend ---
+node_modules/
+frontend/node_modules/
+frontend/dist/
 
 # --- 程式碼（此 repo 只推送知識庫資料） ---
 /analyzer.py
