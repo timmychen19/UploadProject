@@ -1,0 +1,49 @@
+{
+    "bid_id": "ICT-111-001",
+    "project_name": "智慧商情平台委外建置案",
+    "mode": "analysis",
+    "files": [
+        {
+            "filename": "01-投標須知.pdf",
+            "md_file": "01-投標須知.md",
+            "blob": {
+                "blob_path": "Raw_Files/ICT-111-001/智慧商情平台委外建置案/01-投標須知.pdf",
+                "sha256": "40621589ba7b8a13f9cca5aaec819923ce4be45efdadc1f9ff50598bbd63d959",
+                "file_size": 494975,
+                "uploaded_at": "2026-04-20T11:02:03.590063"
+            }
+        },
+        {
+            "filename": "02-投標廠商評選須知.pdf",
+            "md_file": "02-投標廠商評選須知.md",
+            "blob": {
+                "blob_path": "Raw_Files/ICT-111-001/智慧商情平台委外建置案/02-投標廠商評選須知.pdf",
+                "sha256": "d7b723834b58f47ac91dd86c128a47d377a64b63064e5778491ef70efc1eb264",
+                "file_size": 282447,
+                "uploaded_at": "2026-04-20T11:02:03.826034"
+            }
+        },
+        {
+            "filename": "03-需求規格書.pdf",
+            "md_file": "03-需求規格書.md",
+            "blob": {
+                "blob_path": "Raw_Files/ICT-111-001/智慧商情平台委外建置案/03-需求規格書.pdf",
+                "sha256": "c3d95e8f7aed4dfd2670ab2fc0837c456fc29a63708e7c122a0798cf88f62b1e",
+                "file_size": 1592606,
+                "uploaded_at": "2026-04-20T11:02:04.311497"
+            }
+        },
+        {
+            "filename": "04-資訊服務採購契約.pdf",
+            "md_file": "04-資訊服務採購契約.md",
+            "blob": {
+                "blob_path": "Raw_Files/ICT-111-001/智慧商情平台委外建置案/04-資訊服務採購契約.pdf",
+                "sha256": "8e1ee15b828ff324bd747b1f4ee9feb0cd115cd0da8a46e65dc2ef9a8badb4e4",
+                "file_size": 664305,
+                "uploaded_at": "2026-04-20T11:02:04.571461"
+            }
+        }
+    ],
+    "uploaded_at": "2026-04-20T11:02:04.680902",
+    "azure_synced": true
+}

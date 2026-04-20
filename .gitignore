@@ -50,5 +50,8 @@ frontend/dist/
 /step2_analyze.md
 /step3_refactor.md
 /test.pptx
+/storage_client.py
+/reconvert.py
+/BKR_Integration_Guide.md
 /.env.example
 /.streamlit/
