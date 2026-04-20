@@ -10,13 +10,13 @@
                 "blob_path": "Raw_Files/ICT-111-001/智慧商情平台委外建置案/01-投標須知.pdf",
                 "sha256": "40621589ba7b8a13f9cca5aaec819923ce4be45efdadc1f9ff50598bbd63d959",
                 "file_size": 494975,
-                "uploaded_at": "2026-04-20T11:26:21.433877"
+                "uploaded_at": "2026-04-20T15:38:15.697158"
             },
             "md_blob": {
                 "blob_path": "Transferred_MD/ICT-111-001/智慧商情平台委外建置案/01-投標須知.md",
                 "sha256": "70bf9f4d867ed692cedbd7a94d4bbf555d5374dabed15ecd9b8b3a01d0b79f88",
                 "file_size": 44052,
-                "uploaded_at": "2026-04-20T11:26:41.034593"
+                "uploaded_at": "2026-04-20T15:38:21.018698"
             }
         },
         {
@@ -26,13 +26,13 @@
                 "blob_path": "Raw_Files/ICT-111-001/智慧商情平台委外建置案/02-投標廠商評選須知.pdf",
                 "sha256": "d7b723834b58f47ac91dd86c128a47d377a64b63064e5778491ef70efc1eb264",
                 "file_size": 282447,
-                "uploaded_at": "2026-04-20T11:26:21.720412"
+                "uploaded_at": "2026-04-20T15:38:15.961309"
             },
             "md_blob": {
                 "blob_path": "Transferred_MD/ICT-111-001/智慧商情平台委外建置案/02-投標廠商評選須知.md",
                 "sha256": "dfbe51458efe22c35fce1902385c6440d0e2cf1d107c9abc789b743cb9e8b1e5",
                 "file_size": 11575,
-                "uploaded_at": "2026-04-20T11:26:41.252204"
+                "uploaded_at": "2026-04-20T15:38:21.226115"
             }
         },
         {
@@ -42,13 +42,13 @@
                 "blob_path": "Raw_Files/ICT-111-001/智慧商情平台委外建置案/03-需求規格書.pdf",
                 "sha256": "c3d95e8f7aed4dfd2670ab2fc0837c456fc29a63708e7c122a0798cf88f62b1e",
                 "file_size": 1592606,
-                "uploaded_at": "2026-04-20T11:26:22.218282"
+                "uploaded_at": "2026-04-20T15:38:16.468598"
             },
             "md_blob": {
                 "blob_path": "Transferred_MD/ICT-111-001/智慧商情平台委外建置案/03-需求規格書.md",
                 "sha256": "adfd715f259c06ed1578b7bcb0dd22b88c5bb9144193570cbfccbc22255814f8",
                 "file_size": 211157,
-                "uploaded_at": "2026-04-20T11:26:41.891953"
+                "uploaded_at": "2026-04-20T15:38:21.842603"
             }
         },
         {
@@ -58,16 +58,16 @@
                 "blob_path": "Raw_Files/ICT-111-001/智慧商情平台委外建置案/04-資訊服務採購契約.pdf",
                 "sha256": "8e1ee15b828ff324bd747b1f4ee9feb0cd115cd0da8a46e65dc2ef9a8badb4e4",
                 "file_size": 664305,
-                "uploaded_at": "2026-04-20T11:26:22.485645"
+                "uploaded_at": "2026-04-20T15:38:16.939520"
             },
             "md_blob": {
                 "blob_path": "Transferred_MD/ICT-111-001/智慧商情平台委外建置案/04-資訊服務採購契約.md",
                 "sha256": "116fa80f3519ae603b3e2df526e2e41f4bcf67d6f516e2db4773b748faf99dd8",
                 "file_size": 156834,
-                "uploaded_at": "2026-04-20T11:26:42.115249"
+                "uploaded_at": "2026-04-20T15:38:22.063578"
             }
         }
     ],
-    "uploaded_at": "2026-04-20T11:26:42.177477",
+    "uploaded_at": "2026-04-20T15:38:22.158343",
     "azure_synced": true
 }
