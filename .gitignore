@@ -34,6 +34,20 @@ desktop.ini
 temp_corpus.txt
 _temp_parse/
 
+# --- 二進位檔案（改存 Azure Blob Storage） ---
+*.docx
+*.pdf
+*.xlsx
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# --- 保留 manifests JSON 索引 ---
+!manifests/*.json
+
 # --- Node.js / Frontend ---
 node_modules/
 frontend/node_modules/
@@ -45,12 +59,13 @@ frontend/dist/
 /file_parser.py
 /git_setup_guide.md
 /git_sync.py
+/git_manager.py
+/storage_client.py
 /result.json
 /step1_ingest.md
 /step2_analyze.md
 /step3_refactor.md
 /test.pptx
-/storage_client.py
 /reconvert.py
 /BKR_Integration_Guide.md
 /.env.example
